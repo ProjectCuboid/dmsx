@@ -1,4 +1,4 @@
-# dmsx
+![dmsx logo](full-logo.png)
 Dataset Managment Software Exapanded
 ---
 ## LICENSE
